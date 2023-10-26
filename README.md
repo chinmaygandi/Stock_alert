@@ -1,6 +1,7 @@
 # Stock_alert
 
-### Project Description : The application generates a list of stocks that stocks out of 500 stocks that can be viewed as potential investement. 
+### Project Description 
+The application generates a list of stocks that stocks out of 500 stocks that can be viewed as potential investement. 
 
 ### Application Link
 
